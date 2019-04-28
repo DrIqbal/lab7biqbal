@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "199059448587",
+    "firebase_url": "https://lab7-iqbal-push.firebaseio.com",
+    "project_id": "lab7-iqbal-push",
+    "storage_bucket": "lab7-iqbal-push.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199059448587:android:6c21e7751e687726",
+        "android_client_info": {
+          "package_name": "com.example.lab7b_iqbal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199059448587-h015i2oiqdf81e9kc7tsqhhpd7blnm61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAweCg5t1wIu0R8kyuXrngThsZ1f2t4Yv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199059448587-h015i2oiqdf81e9kc7tsqhhpd7blnm61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
